@@ -21,7 +21,7 @@
 
 7.The software package also provides plotting scripts for positioning results to facilitate user data analysis
 
-  To serve young scholars in geodesy and navigation, we are open-sourcing the Factor Graph Optimization-based RTK and RTK/INS part of GREAT. Feedback and criticism are sincerely welcome, and we will keep improving it. We will progressively open-source more factor graph optimization-based positioning algorithms, including PPP/INS and multi-sensor fusion (GNSS/Visual/INS/LiDAR), along with organizing a series of code training sessions.
+  To serve young scholars in geodesy and navigation, we are open-sourcing the Factor Graph Optimization-based RTK and RTK/INS part of GREAT. Feedback and criticism are sincerely welcome, and we will keep improving it. We will progressively open-source more multi-sensor-based factor graph optimization positioning algorithms, along with organizing a series of code training sessions.
 
 ## Package Directory Structure
 
